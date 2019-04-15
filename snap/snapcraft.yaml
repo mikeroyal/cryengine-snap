@@ -1,0 +1,10 @@
+name: cryengine
+version: 
+summary: 
+description: |
+  
+confinement: strict
+grade: devel
+
+apps:
+  cryengine:
