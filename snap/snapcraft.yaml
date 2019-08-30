@@ -7,7 +7,6 @@ confinement: devmode
 base: core18
 
 architectures:
-  - build-on: i386
   - build-on: amd64
 
 apps:
