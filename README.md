@@ -24,7 +24,7 @@ CryEngine
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-## Hardware Requirements for running Unreal Engine on your machine
+## Hardware Requirements for running CryEngine on your machine
 
 
 ## Minimum Requirements
