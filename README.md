@@ -24,3 +24,22 @@ CryEngine
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
+## Hardware Requirements for running Unreal Engine on your machine
+
+
+## Minimum Requirements
+
+Processor: Quad-core Intel or AMD, 2.5 GHz or faster
+
+Memory:  8 GB RAM
+
+Graphics: NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD
+
+
+## Recommended Requirements
+
+Processor: Quad-core Intel or AMD, 3.0 GHz or faster
+
+Memory:  16 GB RAM
+
+Graphics: NVIDIA GTX 1070 or AMD Radeon RX580
